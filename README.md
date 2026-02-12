@@ -1,12 +1,6 @@
-# Purrentine Supper Club
+# Valentine Cats Page
 
-An immersive, cat-themed Valentine experience built with Next.js 14 and the App Router. The page stages a long-distance dinner-and-a-movie date for Radha and her partner, blending floating heart animations, curated GIF art, and a tasting-menu style itinerary.
-
-## Highlights
-- **Fancy feast aesthetic** – layered gradients, linen textures, and Playfair Display typography mimic a high-end restaurant menu.
-- **Live ambience** – CSS-driven floating hearts plus a rose-offering cat keep the page feeling animated without extra libraries.
-- **Coordinated itinerary** – dinner and the movie roll simultaneously, with copy tuned to Pacific and Eastern time zones.
-- **Remote-friendly footer** – closing note and playful GIF remind viewers the night continues after the credits.
+An immersive, cat-themed Valentine experience built with Next.js 14 and the App Router. The page stages a long-distance dinner-and-a-movie date for Valentine's day, blending floating heart animations, curated GIF art, and a tasting-menu style itinerary.
 
 ## Tech Stack
 - [Next.js](https://nextjs.org/) with the App Router
@@ -32,4 +26,4 @@ Any static-friendly host will work. For the quickest path, run `npm run build` a
 
 ## Credits
 - Cat GIFs sourced from Tenor and Giphy (see inline URLs in `app/page.tsx`).
-- Design + copy crafted with ❤️ for Radha.
+- Design + copy crafted with ❤️ with Copilot
